@@ -60,5 +60,10 @@ _그리고,_
 
 # 심심이 Data/AI 플랫폼
 ### 심심이 데이터 LifeCycle
+![dd](https://user-images.githubusercontent.com/79895363/199674493-84bf6abd-d0a8-4608-98a3-7293fb8f0f3e.png)
+
 
 ### 심심이 AI 구축 LifeCycle
+![ss](https://user-images.githubusercontent.com/79895363/199676329-f4626e72-61bd-445e-84ad-292aeb384e44.png)
+
++ __완성된 모델을 심심이 서비스 내에서 테스트 가능!__
