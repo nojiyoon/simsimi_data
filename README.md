@@ -83,6 +83,7 @@ _을 하였습니다!_ (표현 모르겠음)
 ### 심심이에서 모델 테스트를 해 보세요!
 만들어진 대화모델이 있나요? 심심이 서비스 플랫폼에서 테스트 가능! <br>
 (심심이에서 모델 테스트하는 그림) <br>
+![splash](https://user-images.githubusercontent.com/79895363/199898322-4fee6916-991f-4f03-94c0-13e8e2c523cb.png)
 ![chat_simsimi](https://user-images.githubusercontent.com/79895363/199895867-3edeaaa2-1cd9-4bce-bd4a-41e857b965f5.png)
 
 <br>
