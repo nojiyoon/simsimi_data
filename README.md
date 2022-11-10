@@ -44,6 +44,7 @@
 <br><br>
 
 ### 그래서 심심이는 다음과 같은 일들을 해왔습니다.
+(정부와 기업에 데이터 판매 및 솔루션 구축을 해왔다)
 
 > 한국 최초로 윤리검증 데이터 구축 <br>
 국립국어원 온라인 대화 데이터 구축 <br>
@@ -68,7 +69,7 @@ _한국어 블렌더봇 데이터 자문위원단(2022)_
 
 # 심심이 Data/AI 플랫폼
 
-### 심심이는 데이터 전문가입니다.
+### 심심이는 대화 데이터 전문가입니다.
 - 심심이가 쌓아온 대화 데이터를 [판매](https://blog.naver.com/simsimi_kr/222906204850)합니다. ([연구자용 라이선스](https://blog.naver.com/simsimi_kr/222833955785)는 무료로 신청 가능합니다.)
 - [AI Hub 텍스트 윤리검증 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558), [한국어 블렌더봇 데이터](https://www.aitimes.kr/news/articleView.html?idxno=25141)와 같은 새로운 대화 데이터를 구축합니다.
 - 심심이의 오랜 노하우로, 대화 데이터를 용도에 맞게 가공합니다. (예: AI 챗봇 모델링을 위한 심심이 사용자간 대화기록 가공) <br><br>
