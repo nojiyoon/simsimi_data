@@ -71,20 +71,20 @@ _한국어 블렌더봇 데이터 자문위원단(2022)_
 ### 심심이는 데이터 전문가입니다.
 - 심심이가 쌓아온 대화 데이터를 [판매](https://blog.naver.com/simsimi_kr/222906204850)합니다. ([연구자용 라이선스](https://blog.naver.com/simsimi_kr/222833955785)는 무료로 신청 가능합니다.)
 - [AI Hub 텍스트 윤리검증 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558), [한국어 블렌더봇 데이터](https://www.aitimes.kr/news/articleView.html?idxno=25141)와 같은 새로운 대화 데이터를 구축합니다.
-- 심심이의 오랜 노하우로, 대화 데이터를 용도에 맞게 가공합니다. (예: AI 챗봇 모델링을 위한 대화기록 가공) <br><br>
+- 심심이의 오랜 노하우로, 대화 데이터를 용도에 맞게 가공합니다. (예: AI 챗봇 모델링을 위한 심심이 사용자간 대화기록 가공) <br><br>
 
-__심심이 데이터 LifeCycle__ <br>
-![dd4](https://user-images.githubusercontent.com/79895363/200988865-eb67e28f-79e0-4a6d-acf2-ea87546ed338.png)
+    __심심이 데이터 LifeCycle__ <br>
+    ![dd4](https://user-images.githubusercontent.com/79895363/200988865-eb67e28f-79e0-4a6d-acf2-ea87546ed338.png)
 <br><br>
-__심심이 데이터 관리 체계__ <br>
-![image](https://user-images.githubusercontent.com/79895363/200983497-962817c1-bb4b-41d9-a031-2bc2457dec73.png)
+    __심심이 데이터 관리 체계__ <br>
+    ![image](https://user-images.githubusercontent.com/79895363/200983497-962817c1-bb4b-41d9-a031-2bc2457dec73.png)
 <br><br>
 
 ### 심심이는 AI 전문가입니다.
-- 심심이가 AI 대화 모델을 만들고, 배포까지 도와드립니다. <br>
+- 심심이가 AI 대화 모델을 만들고, 배포까지 도와드립니다. <br><br>
 
-__심심이 AI 구축 LifeCycle__ <br>
-![ss3](https://user-images.githubusercontent.com/79895363/200988581-07f7eafa-6900-489c-82e7-60a8c8ad5f78.png)
+    __심심이 AI 구축 LifeCycle__ <br>
+    ![ss3](https://user-images.githubusercontent.com/79895363/200988581-07f7eafa-6900-489c-82e7-60a8c8ad5f78.png)
 <br><br>
 
 
@@ -96,7 +96,25 @@ __심심이 AI 구축 LifeCycle__ <br>
 
 <img src="https://user-images.githubusercontent.com/79895363/199898322-4fee6916-991f-4f03-94c0-13e8e2c523cb.png" width="30%" height="30%"> <img src="https://user-images.githubusercontent.com/79895363/199895867-3edeaaa2-1cd9-4bce-bd4a-41e857b965f5.png" width="30%" height="30%"/>
 
-<br>
+<br><br>
 
-#### 추가내용
-- 문의는 여기로!!
+
+## **연락처**
+
+**심심이주식회사**  
+
+    사업자등록번호 : 211-87-29442(대표자 : 최정회)  
+    주소 : 06194 서울 강남구 테헤란로78길 14-14(대치동 891-36) 제나빌딩 6층  
+    전화 : 02-562-5332 (업무일 오전 11:00 ~ 16:00)  
+    통신판매업신고: 제 2009-서울강남-00350 호  
+
+    Business License  No. : 211-87-29442  
+    Address : SimSimi Inc., 891-36, Daechi, Gangnam, Seoul, S. Korea 06194  
+    Phone : +82-2-562-5332 (Available in Korean Business hour)  
+    Email : support@simsimi.com
+
+**공식 채널**   
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="16">인스타그램](https://www.instagram.com/hey_simsimi/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width="16">트위터](https://www.twitter.com/hey_simsimi)
+- [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/2880px-Discord_logo.svg.png" height="16">디스코드](https://discord.gg/Yw3NMFpA2D) : 문의, 팀과 소통, 커뮤니티, 서포터즈, 블록체인
+- [한국어 블로그](https://blog.naver.com/simsimi_kr) : 기술/서비스 소개, 언론보도
+- [<svg width="16" heigth="16" viewBox="0 0 1043.63 592.71" class="bj bk"><g data-name="Layer 2"><g data-name="Layer 1"><path d="M588.67 296.36c0 163.67-131.78 296.35-294.33 296.35S0 460 0 296.36 131.78 0 294.34 0s294.33 132.69 294.33 296.36M911.56 296.36c0 154.06-65.89 279-147.17 279s-147.17-124.94-147.17-279 65.88-279 147.16-279 147.17 124.9 147.17 279M1043.63 296.36c0 138-23.17 249.94-51.76 249.94s-51.75-111.91-51.75-249.94 23.17-249.94 51.75-249.94 51.76 111.9 51.76 249.94"></path></g></g></svg> 영어 블로그](https://medium.com/@simsimiofficial)
