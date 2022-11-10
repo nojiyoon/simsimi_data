@@ -83,8 +83,7 @@ __심심이 데이터 관리 체계__ <br>
 - 심심이가 AI 대화 모델을 만들고, 배포까지 도와드립니다. <br>
 
 __심심이 AI 구축 LifeCycle__ <br>
-![ss2](https://user-images.githubusercontent.com/79895363/200987370-a16fb369-2bc5-4192-9ccd-3f8b34c210d4.png)
-
+![ss3](https://user-images.githubusercontent.com/79895363/200988581-07f7eafa-6900-489c-82e7-60a8c8ad5f78.png)
 <br>
 
 ### 심심이에서 모델 테스트를 해 보세요!
