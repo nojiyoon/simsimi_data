@@ -43,7 +43,7 @@
 8. __안전함(Safety)__: 건강한 대화 환경의 지속 관리를 통한 유저 경험 향상(혐오, 차별 포함 악성표현 탐지 및 제어를 위한 단어 필터, AI 모델 개발 및 운영)
 <br><br>
 
-### 그래서 심심이는
+### 그래서 심심이는 다음과 같은 일들을 해왔습니다.
 
 > 한국 최초로 윤리검증 데이터 구축 <br>
 국립국어원 온라인 대화 데이터 구축 <br>
@@ -57,14 +57,12 @@ _그리고,_
 버추얼휴먼 개발 및 서비스 기업 한국어 대화 시나리오 및 챗봇 솔루션 통합 구축 <br>
 사회복지 IT 기업을 위한 한국어 대화 시나리오 및 정신건강 챗봇 솔루션 통합 구축
 
-와 같은 일들을 해왔습니다.
-
 <br>
 
 ### 심심이의 친구들
-또한 심심이는 대화 AI와 관련된 학계와 산업을 아우르는 전문가 네트워크를 보유하고 있습니다.
-> ![image](https://user-images.githubusercontent.com/79895363/200974269-2919cec5-e16e-4b76-84c0-005262c92a1a.png) <br>
-> 한국어 블렌더봇 데이터 자문위원단(2022)
+또한 심심이는 대화 AI와 관련된 학계와 산업을 아우르는 전문가 네트워크를 보유하고 있습니다. <br><br>
+![image](https://user-images.githubusercontent.com/79895363/200974269-2919cec5-e16e-4b76-84c0-005262c92a1a.png) <br>
+_한국어 블렌더봇 데이터 자문위원단(2022)_
 
 <br><br>
 
@@ -73,20 +71,19 @@ _그리고,_
 ### 심심이는 데이터 전문가입니다.
 - 심심이가 쌓아온 대화 데이터를 [판매](https://blog.naver.com/simsimi_kr/222906204850)합니다. ([연구자용 라이선스](https://blog.naver.com/simsimi_kr/222833955785)는 무료로 신청 가능합니다.)
 - [AI Hub 텍스트 윤리검증 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558), [한국어 블렌더봇 데이터](https://www.aitimes.kr/news/articleView.html?idxno=25141)와 같은 새로운 대화 데이터를 구축합니다.
-- 심심이의 오랜 노하우로, 대화 데이터를 용도에 맞게 가공해드립니다. <br>
+- 심심이의 오랜 노하우로, 대화 데이터를 용도에 맞게 가공해드립니다. <br><br>
 
-> __심심이 데이터 LifeCycle__ <br>
-> ![dd3](https://user-images.githubusercontent.com/79895363/200977625-0b533310-e5d4-480a-acde-1fd4443db30f.png) <br><br>
-> __심심이 데이터 관리 체계__ <br>
-> ![image](https://user-images.githubusercontent.com/79895363/200980745-4a3a89f5-b793-4979-8c87-14f0af3bf6a7.png)
-
-<br>
+심심이 데이터 LifeCycle <br>
+![dd3](https://user-images.githubusercontent.com/79895363/200977625-0b533310-e5d4-480a-acde-1fd4443db30f.png) <br><br>
+심심이 데이터 관리 체계 <br>
+![image](https://user-images.githubusercontent.com/79895363/200983497-962817c1-bb4b-41d9-a031-2bc2457dec73.png)
+<br><br>
 
 ### 심심이는 AI 전문가입니다.
 - 심심이가 AI 대화 모델을 만들고, 배포까지 도와드립니다. <br>
 
-> __심심이 AI 구축 LifeCycle__ <br>
-> ![ss](https://user-images.githubusercontent.com/79895363/199676329-f4626e72-61bd-445e-84ad-292aeb384e44.png)
+__심심이 AI 구축 LifeCycle__ <br>
+![ss](https://user-images.githubusercontent.com/79895363/199676329-f4626e72-61bd-445e-84ad-292aeb384e44.png)
 
 <br>
 
