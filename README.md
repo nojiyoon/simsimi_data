@@ -18,8 +18,8 @@
 <br>
 
 ### **걸어온 길**
-- 2022년 [인공지능 학습용 데이터 구축사업 주관](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%8B%AC%EC%8B%AC%EC%9D%B4+%ED%95%9C%EA%B5%AD%EC%96%B4+%EB%B8%94%EB%A0%8C%EB%8D%94%EB%B4%87+%EB%8D%B0%EC%9D%B4%ED%84%B0) (한국어 블렌더봇 데이터)
-- 2021년 [인공지능 학습용 데이터 구축사업 주관](https://search.naver.com/search.naver?where=news&sm=tab_tnw&query=%EC%8B%AC%EC%8B%AC%EC%9D%B4&sort=0&photo=0&field=0&pd=0&ds=&de=&mynews=0&office_type=0&office_section_code=0&news_office_checked=&related=1&docid=53510000084283&nso=so:r,p:all,a:all) (대화형 인공지능을 위한 윤리검증 데이터)
+- 2022년 [인공지능 학습용 데이터 구축사업 주관](https://www.aitimes.kr/news/articleView.html?idxno=25141) (한국어 블렌더봇 데이터)
+- 2021년 [인공지능 학습용 데이터 구축사업 주관](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558) (대화형 인공지능을 위한 윤리검증 데이터)
 - 2020년 [범부처전주기의료기기연구개발사업 주관](https://www.bosa.co.kr/news/articleView.html?idxno=2136971) (AI 기반 고령자 정신건강 모니터링)
 - 2019년 [심심이 챗봇공방](https://workshop.simsimi.com/) 오픈
 - 2018년 악성문장 판별용 딥러닝 모델 개발(한국어 F1 score 0.97 이상)
