@@ -76,7 +76,9 @@ _그리고,_
 - 심심이의 오랜 노하우로, 대화 데이터를 용도에 맞게 가공해드립니다. <br>
 
 > __심심이 데이터 LifeCycle__ <br>
-> ![dd3](https://user-images.githubusercontent.com/79895363/200977625-0b533310-e5d4-480a-acde-1fd4443db30f.png)
+> ![dd3](https://user-images.githubusercontent.com/79895363/200977625-0b533310-e5d4-480a-acde-1fd4443db30f.png) <br><br>
+> __심심이 데이터 관리 체계__ <br>
+> ![image](https://user-images.githubusercontent.com/79895363/200980745-4a3a89f5-b793-4979-8c87-14f0af3bf6a7.png)
 
 <br>
 
