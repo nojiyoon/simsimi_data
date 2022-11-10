@@ -71,7 +71,7 @@ _한국어 블렌더봇 데이터 자문위원단(2022)_
 ### 심심이는 데이터 전문가입니다.
 - 심심이가 쌓아온 대화 데이터를 [판매](https://blog.naver.com/simsimi_kr/222906204850)합니다. ([연구자용 라이선스](https://blog.naver.com/simsimi_kr/222833955785)는 무료로 신청 가능합니다.)
 - [AI Hub 텍스트 윤리검증 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558), [한국어 블렌더봇 데이터](https://www.aitimes.kr/news/articleView.html?idxno=25141)와 같은 새로운 대화 데이터를 구축합니다.
-- 심심이의 오랜 노하우로, 대화 데이터를 용도에 맞게 가공해드립니다. <br><br>
+- 심심이의 오랜 노하우로, 대화 데이터를 용도에 맞게 가공합니다. (예: AI 챗봇 모델링을 위한 대화기록 가공) <br><br>
 
 심심이 데이터 LifeCycle <br>
 ![dd3](https://user-images.githubusercontent.com/79895363/200977625-0b533310-e5d4-480a-acde-1fd4443db30f.png) <br><br>
