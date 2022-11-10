@@ -74,7 +74,8 @@ _한국어 블렌더봇 데이터 자문위원단(2022)_
 - 심심이의 오랜 노하우로, 대화 데이터를 용도에 맞게 가공합니다. (예: AI 챗봇 모델링을 위한 대화기록 가공) <br><br>
 
 __심심이 데이터 LifeCycle__ <br>
-![dd3](https://user-images.githubusercontent.com/79895363/200977625-0b533310-e5d4-480a-acde-1fd4443db30f.png) <br><br>
+![dd4](https://user-images.githubusercontent.com/79895363/200988865-eb67e28f-79e0-4a6d-acf2-ea87546ed338.png)
+<br><br>
 __심심이 데이터 관리 체계__ <br>
 ![image](https://user-images.githubusercontent.com/79895363/200983497-962817c1-bb4b-41d9-a031-2bc2457dec73.png)
 <br><br>
