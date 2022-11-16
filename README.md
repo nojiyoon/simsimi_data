@@ -39,6 +39,7 @@
 <img src="https://user-images.githubusercontent.com/79895363/199895867-3edeaaa2-1cd9-4bce-bd4a-41e857b965f5.png" width="30%" height="30%"/>
 
 ([심심이 보편대화 데이터로 직접 만든 모델](https://blog.naver.com/simsimi_kr/222887207890) 예시입니다)
+(내용추가: 평가 어떻게 해줄것이라는 내용. cps?)
 
 
 ***
